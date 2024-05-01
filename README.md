@@ -1,6 +1,4 @@
 
-Sure, here's a README file based on the latest code:
-
 Ping Pong Game
 Welcome to the Ping Pong game! This is a simple implementation of the classic game using HTML, CSS, and JavaScript. Below you'll find an overview of the game's features and how to get started.
 
